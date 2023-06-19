@@ -1,7 +1,4 @@
 # Sumo Smash
-Created January 2014  
-At the Algonquin College Game Jam 2014  
-Ottawa, Ontario
 
 ## About the Game
 This game was written during the Global Game Jam 2014 at Algonquin College, Ottawa, Ontario.  
